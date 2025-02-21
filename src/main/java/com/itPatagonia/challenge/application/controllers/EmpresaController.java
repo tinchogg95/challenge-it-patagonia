@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.*;
 
 import com.itPatagonia.challenge.domain.model.Empresa;
 import com.itPatagonia.challenge.domain.service.EmpresaService;
-import com.itPatagonia.challenge.infraestructure.EmpresaDTO;
+import com.itPatagonia.challenge.infraestructure.dto.EmpresaDTO;
 
 import javax.validation.Valid;
 import java.util.List;
